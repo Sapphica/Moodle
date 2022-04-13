@@ -7,6 +7,7 @@ To create automated test to test basic business critical functionality a php dat
 
 ### Application Environment
 (where tests are developed)
+http://52.39.5.126/
 
 
 ### Automation Environment
